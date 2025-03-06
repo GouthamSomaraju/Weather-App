@@ -28,7 +28,7 @@ Installation & Usage
 
 Clone this repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/GouthamSomaraju/Weather-App
 
 Navigate to the project folder:
 
