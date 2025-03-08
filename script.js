@@ -49,7 +49,7 @@ searchBtn.addEventListener('click', function() {
                     videoBG = "./assets/videos/thunder1.mp4"; 
                     break;
                 case "Rain": 
-                    videoBG = "./assets/videos/rain.mp4"; 
+                    videoBG = "./assets/videos/rain1.mp4"; 
                     break;
                 default: 
                     videoBG = "./assets/videos/default.mp4";
